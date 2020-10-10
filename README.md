@@ -1,7 +1,7 @@
 # Halloween card seek game
 Halloween 'seek the RFID cards' game! Hide RFID cards in the room for people to find. When a card is found scan it with the RFID reader to claim the price indicated by the LED strip. 
 
-<img src="/images/halloween-cards.gif" alt="Halloween RFID card game" width="360" height="240">
+<img src="/images/halloween-cards.gif" alt="Halloween RFID card game" width="640" height="360">
 
 ## Hardware
 
