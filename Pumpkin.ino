@@ -32,11 +32,6 @@ byte rfidTagArray[10][4] = {
 #define RST_PIN   16          // Reset pin
 #define SS_PIN    21          // SDA (SS) pin
 
-//PIR
-//#include <Wire.h>
-#define  LED            2     // Set GPIOs for LED 
-#define  MOTION_SENSOR  4     // PIR Motion Sensor
-
 //LED
 #include <FastLED.h>
 #define LED_PIN     32
